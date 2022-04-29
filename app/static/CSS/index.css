@@ -1,5 +1,20 @@
-/* h3 {
+h3 {
     color: blue;
     font-size: large;
     font-family: 'Poppins' sans-serif;
-} */
+}
+.container {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.list ul {
+    list-style: none;
+}
+form input .put {
+    width: 50%;
+}
+form input .button {
+    border-radius: 10px;
+}
